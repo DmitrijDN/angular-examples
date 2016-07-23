@@ -6,3 +6,5 @@ Repo with simple examples of using angular framework
 1. npm install in example folder
 2. node server.js
 3. in app.js folder view routes of examples
+
+Server runs on lcoalhost:3055
