@@ -1,0 +1,36 @@
+.main-wrapper {
+	margin-left: 10%;
+}
+
+.lvl-wrapper {
+	border: 2px dashed gray;
+	text-align: center;
+	margin: 20px 0
+}
+
+.main-wrapper .lvl-wrapper:first-child {
+	width: 80%;
+}
+
+.lvl1 {
+	margin-left: 10%;
+	width: 80%;
+	text-align: center;
+}
+
+.lvl2 {
+	margin-left: 10%;
+	width: 80%;
+	text-align: center;
+}
+
+.lvl-wrapper .btn {
+	margin: 10px;
+}
+
+.lvl-area {
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 20px;
+	border: 2px dashed green;
+}
