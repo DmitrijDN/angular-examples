@@ -18,8 +18,8 @@
             link: function(scope, element, attrs) {
                 element.bind('click', function(event) {
                     console.log(attrs);
-                    // $window.open(scope.href);
-                    scope.href = '123';
+                    $window.open(scope.href);
+                    // scope.href = '123';
                 });
             },
             template: '<button ng-transclude></button>'
