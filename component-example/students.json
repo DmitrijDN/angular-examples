@@ -1,0 +1,41 @@
+[{
+	"id": 1,
+	"name": "Tony Stark",
+	"title": "genius, billionaire, playboy, philanthropist",
+	"avgMark": 5
+}, {
+	"id": 2,
+	"name": "Xarvie Spectr",
+	"title": "cool lawyer",
+	"avgMark": 3
+}, {
+	"id": 3,
+	"name": "Mike Ross",
+	"name": "Remember everything lawyer",
+	"avgMark": 5
+}, {
+	"id": 4,
+	"name": "Andy Dufresne",
+	"title": "Greate accounter + prison breaker",
+	"avgMark": 2
+}, {
+	"id": 5,
+	"name": "Barney Stinson",
+	"title": "Legend .. 'wait for it' dary guy",
+	"avgMark": 1
+}, {
+	"id": 6,
+	"name": "Sherlock Holmes",
+	"title": "Mr deduction",
+	"avgMark": 4
+}, {
+	"id": 7,
+	"name": "Michael Scofield",
+	"title": "Senior architector + prison breaker",
+	"avgMark": 5
+}, {
+	"id": 8,
+	"name": "Sheldon Cooper",
+	"title": "Dr. snob",
+	"avgMark": 5
+}]
